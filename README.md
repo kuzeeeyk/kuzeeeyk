@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**kuzeeeyk/kuzeeeyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src='https://media.discordapp.net/attachments/976855565974253609/983514665508294676/banner.png' style="border-radius:12px;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------
+## 👋 Introduction
+Hello, i'm **Kuzey Kurtuluş**. I am a self-taught developer from Ankara, Turkey. I'm currently a high-school student. I'm trying to improve my skills and knowledge everyday.
+
+## 📫 Contact Me on Social Media
+[Discord Guild](https://discord.gg/tTH2hfVkju) • [Instagram](https://www.instagram.com/kuzeeeyk/) • [Twitter](https://twitter.com/kuzeeeykurtulus)
+
+
+## 💡 My Projects
+
+- [My Website](https://kuzeeeyk.me): My personal to show up basic info about me
+- [Flexberry Launcher](https://github.com/FlexberryLauncher): Lightweight and useful launcher for Minecraft
+
+## 💻 GitHub Stats
+
+![kuzeeeyk's Github stats](https://github-readme-stats.vercel.app/api?username=kuzeeeyk&show_icons=true)
