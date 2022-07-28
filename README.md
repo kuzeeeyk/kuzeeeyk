@@ -7,7 +7,7 @@
 Hello, i'm **Kuzey Kurtuluş**. I am a self-taught developer from Ankara, Turkey. I'm currently a high-school student. I'm trying to improve my skills and knowledge everyday.
 
 ## 📫 Contact Me on Social Media
-[Discord Guild](https://discord.gg/tTH2hfVkju) • [Instagram](https://www.instagram.com/kuzeeeyk/) • [Twitter](https://twitter.com/kuzeeeykurtulus)
+[Discord Guild](https://discord.gg/xCVmYQuY) • [Instagram](https://www.instagram.com/kuzeeeyk/) • [Twitter](https://twitter.com/kuzeeeykurtulus)
 
 
 ## 💡 My Projects
